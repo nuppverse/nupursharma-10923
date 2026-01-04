@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Function to calculate slab-based energy charge
+// Function to calculate slab-based energy charges.
 float calculateEnergyCharge(int units) {
     float cost = 0;
 
