@@ -35,6 +35,8 @@ nupursharma-10923/
 ```
 
 ## How to Run the Program
+Make sure GCC compiler is installed on your system.
+
 - Open the project folder
 - Compile the program using:
 ```
